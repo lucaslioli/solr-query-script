@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+    <top>
+        <num>Q1</num>
+        <title>Short title used as the query submitted to the IR system</title>
+        <desc>A short description of the information need, generally, with no more than one sentence</desc>
+        <narr>A more detailed narrative that helps the annotator decide on the relevance of the documents.</narr>
+    </top>
+
+</root>
